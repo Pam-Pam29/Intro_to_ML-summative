@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project addresses a critical maternal health challenge in Sub-Saharan Africa through automated fetal health classification using Cardiotocography (CTG) data. The work provides a **rigorous, systematic comparative analysis** of traditional machine learning and deep learning approaches, conducting **comprehensive experiments** to identify optimal algorithmic strategies for resource-limited healthcare settings.
 
@@ -32,7 +32,7 @@ This project addresses a critical maternal health challenge in Sub-Saharan Afric
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Source:** [UCI Machine Learning Repository - Fetal Health Classification](https://archive.ics.uci.edu/dataset/193/cardiotocography)
 
@@ -137,61 +137,26 @@ tensorflow>=2.8.0
 
 
 
-## 🎥 Demo Video
+##  Demo Video
 
-📹 **[Watch 5-Minute Project Demo](https://youtu.be/YOUR_VIDEO_LINK_HERE)**
+ **[Watch 5-Minute Project Demo](https://youtu.be/YOUR_VIDEO_LINK_HERE)**
 
 
 
-## 📚 Documentation
+##  Documentation
 
 ### Written Report
-📄 **[Complete Written Report (PDF)](./Fetal_Health_Report.pdf)** - 3,500+ words
-
-
-
-### Code Documentation
-📓 **[Jupyter Notebook](./fetal_health_classification.ipynb)** - Fully reproducible experiments
-
+ **[Complete Written Report (PDF)](./Fetal_Health_Report.pdf)** -
 
 
 ---
 
-## 📖 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@article{fakunle2025fetal,
-  title={Fetal Health Classification Using Machine Learning and Deep Learning Approaches: A Comprehensive Comparative Analysis},
-  author={Fakunle, Victoria},
-  journal={Introduction to Machine Learning - Summative Project},
-  year={2025},
-  month={October}
-}
-```
-
----
-
-## 📧 Contact
-
-**Victoria Fakunle**  
-📧 Email: victoria.fakunle@example.com  
-🔗 LinkedIn: [linkedin.com/in/victoriafakunle](https://linkedin.com/in/victoriafakunle)  
-🐙 GitHub: [github.com/victoriafakunle](https://github.com/victoriafakunle)
-
----
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **UCI Machine Learning Repository** for providing the Fetal Health Classification dataset
-- **World Health Organization** for maternal health statistics and stillbirth data
+- **World Health Organisation** for maternal health statistics and stillbirth data
 - **TensorFlow and Scikit-learn communities** for excellent documentation and support
 - **Introduction to Machine Learning instructors** for guidance throughout the project
 
 ---
 
-
----
-
-**⭐ If you find this work helpful, please consider giving it a star!**

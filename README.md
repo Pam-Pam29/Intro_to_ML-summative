@@ -139,14 +139,14 @@ tensorflow>=2.8.0
 
 ##  Demo Video
 
- **[Watch 5-Minute Project Demo](https://youtu.be/YOUR_VIDEO_LINK_HERE)**
+ **[Watch 5-Minute Project Demo](https://drive.google.com/file/d/1ESR8q9JvxXz8RZJNAgVf_7FkZzqSCu2N/view?usp=sharing)**
 
 
 
 ##  Documentation
 
 ### Written Report
- **[Complete Written Report (PDF)](./Fetal_Health_Report.pdf)** -
+ **[Complete Written Report (PDF)](https://docs.google.com/document/d/1fim8OOmesMnfXYR8pBFIfkBofoXRmVQW0Kk1s9gYVX4/edit?usp=sharing)** -
 
 
 ---
